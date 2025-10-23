@@ -70,7 +70,7 @@
 2. 文件内容只写一行你的域名，例如：
 
    ```
-   zheng-chen.cn
+   xiaomingli.cn
    ```
 
 3. 在域名服务商设置 CNAME 记录，指向：
